@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Muskingum County (Official Site)", category: "Government", subcategory: "County", url: "https://www.muskingumcountyoh.gov/", description: "Official Muskingum County government website — offices, agencies, and courts." },
